@@ -1,4 +1,10 @@
 *.pyc
+.debug
 .mbed
+.release
+BUILD
+debug.elf
+release.elf
+gdb.script
 mbed-os
 mbed_settings.py
